@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\gitrepos\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+      "projectUniqueName": "C:\\gitrepos\\GameOfLife\\GameOfLife-console\\GameOfLife\\GameOfLife.csproj",
       "projectName": "GameOfLife",
-      "projectPath": "C:\\gitrepos\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+      "projectPath": "C:\\gitrepos\\GameOfLife\\GameOfLife-console\\GameOfLife\\GameOfLife.csproj",
       "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\gitrepos\\GameOfLife\\GameOfLife\\obj\\",
+      "outputPath": "C:\\gitrepos\\GameOfLife\\GameOfLife-console\\GameOfLife\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
